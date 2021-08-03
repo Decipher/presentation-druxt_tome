@@ -1,8 +1,7 @@
 
-# Druxt 101
+# Druxt & Tome
 
-Fully Decoupled Drupal  
-with JSON:API and Nuxt.js
+Fully decoupled, full static, serverless Drupal
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 p-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">

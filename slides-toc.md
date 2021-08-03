@@ -4,12 +4,9 @@
 0. Introduction
 1. DruxtSite - Umami Parity project
 2. Getting started with DruxtSite
-3. Theming (DruxtWrapper)
-4. Blocks & Regions
-5. Storybook
-6. Reactivity and v-model
-7. Static Site Generation
-8. Q & A
+3. Static Site Generation
+4. Serverless Drupal
+5. Q & A
 
 <!--
 Druxt is a big project, and there is a lot to talk about.

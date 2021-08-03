@@ -18,12 +18,6 @@ src: ./slides-presenter-stuart-clark.md
 ---
 
 ---
-layout: image-left
-image: https://secure.gravatar.com/avatar/dd0e29f8a76a2481b2bfec40e69f749f?s=800
-src: ./slides-presenter-brian-gilbert.md
----
-
----
 layout: module
 src: ./slides-druxt-index.md
 ---
@@ -31,11 +25,6 @@ src: ./slides-druxt-index.md
 ---
 layout: section
 src: ./slides-druxt-drupal.md
----
-
----
-layout: module
-src: ./slides-druxt-drupal-module.md
 ---
 
 ---
@@ -99,134 +88,6 @@ src: ./slides-getting-started-nuxt.md
 ---
 
 ---
-background: /images/nuxt-welcome.png
-class: text-center
-layout: cover
-src: ./slides-getting-started-demo-1.md
----
-
----
-background: /images/druxt-welcome.png
-layout: module
-src: ./slides-modules-druxt-router.md
----
-
----
-layout: full
-src: ./slides-diagrams-druxt-router.md
----
-
----
-background: /images/druxt-views-page.png
-layout: module
-src: ./slides-modules-druxt-views.md
----
-
----
-background: /images/drupal-cms.png
-class: text-center
-layout: cover
-src: ./slides-getting-started-demo-2.md
----
-
----
-background: /images/schemas.png
-layout: module
-src: ./slides-modules-druxt-schema.md
----
-
----
-background: /images/druxt-entity.png
-layout: module
-src: ./slides-modules-druxt-entity.md
----
-
----
-background: /images/components.png
-class: text-center
-layout: cover
-src: ./slides-theming-index.md
----
-
----
-layout: full-left
-src: ./slides-theming-slots-wrappers.md
----
-
----
-layout: full-left
-src: ./slides-theming-attrs-props-mixins.md
----
-
----
-image: /images/components.png
-layout: image-right
-position: left
-src: ./slides-theming-wrapper-components.md
----
-
----
-background: https://source.unsplash.com/collection/94734566/1920x1080
-class: text-center
-layout: cover
-src: ./slides-prettification.md
----
-
----
-background: /images/druxt-block-region.png
-class: text-center
-layout: cover
-src: ./slides-blocks-regions.md
----
-
----
-background: /images/druxt-block-region.png
-layout: module
-src: ./slides-modules-druxt-blocks.md
----
-
----
-background: /images/umami-storybook.png
-class: text-center
-layout: cover
-src: ./slides-storybook.md
----
-
----
-id: ek8BlCghwkE
-layout: youtube-right
-src: ./slides-storybook-nuxtjs.md
----
-
----
-background: /images/umami-storybook.png
-class: text-center
-layout: cover
-src: ./slides-storybook-umami.md
----
-
----
-background: https://source.unsplash.com/collection/94734566/1920x1080
-class: text-center
-layout: cover
-src: ./slides-reactivity.md
----
-
----
-class: text-sm
-id: OL_bRANN6oA
-layout: youtube-right
-src: ./slides-reactivity-v-model.md
----
-
----
-background: https://source.unsplash.com/collection/94734566/1920x1080
-class: text-center
-layout: cover
-src: ./slides-reactivity-demo.md
----
-
----
 id: SoWU5PfE7SI
 layout: youtube-right
 src: ./slides-ssg.md
@@ -236,6 +97,13 @@ src: ./slides-ssg.md
 class: text-center
 layout: cover
 src: ./slides-sponsors.md
+---
+
+---
+background: https://source.unsplash.com/collection/94734566/1920x1080
+class: text-center
+layout: cover
+src: ./slides-serverless-index.md
 ---
 
 ---

@@ -94,16 +94,16 @@ src: ./slides-ssg.md
 ---
 
 ---
-class: text-center
-layout: cover
-src: ./slides-sponsors.md
----
-
----
 background: https://source.unsplash.com/collection/94734566/1920x1080
 class: text-center
 layout: cover
 src: ./slides-serverless-index.md
+---
+
+---
+class: text-center
+layout: cover
+src: ./slides-sponsors.md
 ---
 
 ---

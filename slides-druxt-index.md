@@ -22,10 +22,10 @@
   </div>
   <div class="!all:leading-12 !all:list-none my-auto">
 
-  - Drupal and Node module(s)
+  - Entities, Fields, Views, Blocks, Menus & more
   - Drupal JSON:API client
   - Modular Vue.js component library
-  - Vuex resource and collection cache
+  - Vuex caching
   - SPA / SSG / SSR
   - Fully Decoupled first
 
@@ -33,15 +33,8 @@
 </div>
 
 <!--
-Let's talk about about Druxt: What is Druxt?
-
-Druxt is An open source framework for building Fully Decoupled Drupal integrations with Nuxt
-
-- It is Drupal and Node Modules.
-- it's aDrupal JSON:API Client
-- a Modular Vue component library system with a Vuex store based caching system
-  - Partial resources
-  - Dehydration of both collection and included resources
-- It can be used for Single Page Applications, Static Site Generation, Server Side Rendering and a combination of the lot.
-- Fully decoupled first.
+Druxt consumes both content and configuration from the Drupal JSON:API.
+It provides Entities with display modes, for both View and Form displays.
+It offers Decoupled Views, Blocks, Menus and more.
+It leverages the many build modes provided by Nuxt, including full static generation.
 -->

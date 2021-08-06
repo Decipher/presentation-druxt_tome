@@ -29,11 +29,6 @@ src: ./slides-druxt-drupal.md
 
 ---
 layout: section
-src: ./slides-druxt-nuxt.md
----
-
----
-layout: section
 src: ./slides-druxt-nuxt-modules.md
 ---
 
@@ -98,6 +93,12 @@ background: https://source.unsplash.com/collection/94734566/1920x1080
 class: text-center
 layout: cover
 src: ./slides-serverless-index.md
+---
+
+---
+id:
+layout: youtube-right
+src: ./slides-serverless-demo.md
 ---
 
 ---

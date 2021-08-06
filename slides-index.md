@@ -9,3 +9,8 @@ Fully decoupled, full static, serverless Drupal
   </span>
 </div>
 
+<!--
+Good morning,
+
+Today I'll be talking about Druxt, Static and Tome.
+-->

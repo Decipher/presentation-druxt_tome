@@ -22,7 +22,6 @@ Hello
 I'm Stuart Clark:
 * Decoupled Developer @ Realityloop in Australia
 * Drupal developer of 15 years
-* Vue developer for 3+ years with focus on decoupled, leading to the creation of Druxt
 
-With me today is ...
+I'm building a Nuxt.js frontend framework for Fully Decoupled Drupal, called Druxt.
 -->

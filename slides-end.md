@@ -11,5 +11,6 @@
   <a href="https://druxtjs.org">druxtjs.org</a>
   <a href="https://github.org/druxt">github.org/druxt</a>
   <a href="https://discord.druxtjs.org">discord.druxtjs.org</a>
-  <a href="https://druxt-101.slides.realityloop.com">druxt-101.slides.realityloop.com</a>
+  <a href="https://gitpod.io/#github.com/Decipher/presentation-druxt_tome">gitpod.io/#github.com/Decipher/presentation-druxt_tome</a>
 </div>
+

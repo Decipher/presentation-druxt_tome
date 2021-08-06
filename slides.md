@@ -51,12 +51,6 @@ src: ./slides-umami-index.md
 ---
 
 ---
-background: /images/modules-druxt-site.png
-layout: module
-src: ./slides-modules-druxt-site.md
----
-
----
 class: text-sm
 id: R6eM3JQ_pv8
 layout: youtube-right

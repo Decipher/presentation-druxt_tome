@@ -33,8 +33,8 @@
 </div>
 
 <!--
-Druxt consumes both content and configuration from the Drupal JSON:API.
-It provides Entities with display modes, for both View and Form displays.
-It offers Decoupled Views, Blocks, Menus and more.
-It leverages the many build modes provided by Nuxt, including full static generation.
+- Druxt consumes both content and configuration from the Drupal JSON:API.
+- It provides Entities with display modes, for both View and Form displays.
+- It offers Decoupled Views, Blocks, Menus and more.
+- It leverages the many build modes provided by Nuxt, including full static generation.
 -->

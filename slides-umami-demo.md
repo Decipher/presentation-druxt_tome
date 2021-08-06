@@ -21,13 +21,9 @@
 
 [Click play]
 
-This is the Umami Parity project, it's my testing ground and goal posts for the Druxt 1.0 release.
+The Umami Parity project is a demonstration of the DruxtSite module using the Drupal Umami install profile.
 
-Let's take a quick walk through of the site __ BRIAN:
-(BRIAN TO SHARE)
-- It's serving Full Statically generated HTML, which Nuxt hydrates to provide client-side navigation.
-- This also allows for Layout components, which provide modern User experience, like the SearchBar.
-- The Frontend is hosted on Amazee's Lagoon, however, being Full static allows it to run on services like Netlify and Vercel.
+The site is running Full Static, hosted on Amazee's Lagoon.
 
-The source code is all available on github, so be sure to check it out.
+Search is using Lunr.
 -->
